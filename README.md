@@ -16,5 +16,5 @@ I have created these resume projects each designed for different needs Whether y
 
 ✅ JavaScript – For interactive and dynamic features (in applicable versions)
 
-# These resumes are perfect for showcasing your skills and experience in a way that fits your needs! 🚀
+
 
